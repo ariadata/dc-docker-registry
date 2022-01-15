@@ -20,7 +20,7 @@ git clone https://github.com/ariadata/dc-docker-registry.git && cd dc-docker-reg
 ```sh
 docker-compose up -d
 ```
-#### 4- Add first auth User/Pass by using this ( change `MY_USER`) :
+#### 4- Add User/Pass by using this ( change `MY_USER`) :
 ```sh
 htpasswd -B auth/registry.password MY_USER
 ```
