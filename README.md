@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/watchers/ariadata/dc-docker-registry.svg)
 ![](https://img.shields.io/github/forks/ariadata/dc-docker-registry.svg)
 
-> This needs : [nginx-proxy-manager with docker-compose](https://github.com/ariadata/dc-nginxproxymanager) .
+### This needs : [dockerhost](https://github.com/ariadata/dockerhost-sh) + [nginx-proxy-manager](https://github.com/ariadata/dc-nginxproxymanager)
 
 ---
 #### 1- Install `apache2-utils` , in ubuntu :
